@@ -24,6 +24,8 @@ Um arquivo README.md detalhado
 Quaisquer arquivos adicionais que sejam relevantes para documentar sua experiência 
 Opcionalmente, capturas de tela relevantes organizadas em uma pasta /images 
 
+        Audio-para-Texto.png
+
 Enviar o link do seu repositório e uma breve descrição clicando no botão “Entregar Projeto” 
 
 Recursos Úteis 
